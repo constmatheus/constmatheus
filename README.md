@@ -29,9 +29,9 @@
 <br>
 
 <div align="center">
-  <a href="https://devconstantino.github.io/">
-  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=constmatheus&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=constmatheus&layout=compact&langs_count=4&theme=dark"/>
+  <a href="https://constmatheus.github.io/">
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=constmatheus&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=constmatheus&layout=compact&langs_count=4&theme=dark"/>
   </a>
 </div>
 
