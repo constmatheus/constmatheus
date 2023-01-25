@@ -32,7 +32,7 @@
 
 <p>Venho trabalhando em dois projetos principais:</p>
 
-* MyStyledReact: Biblioteca de componentes React desenvolvida com TypeScript + styled-components;
+* MyStyledReact: Biblioteca de componentes React, desenvolvida com TypeScript + styled-components e documentada com Storybook;
 * Portfólio de landing-pages;
 
 Ambos os projetos são desenvolvidos a partir do mesmo processo: Design realizado no **Figma**, documentação desenvolvida no **Storybook**, código compartilhado pelo **Github**. 
