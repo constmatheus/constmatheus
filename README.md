@@ -28,6 +28,13 @@
 </div>
 <br>
 
+<div align="center">
+  <a href="https://devconstantino.github.io/">
+  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=constmatheus&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=constmatheus&layout=compact&langs_count=4&theme=dark"/>
+  </a>
+</div>
+
 ##
 
 <p>Venho trabalhando em dois projetos principais:</p>
@@ -54,4 +61,4 @@ Ambos os projetos são desenvolvidos a partir do mesmo processo: Design realizad
   <a href = "https://matheusconstantino.com.br/">🌐</a>
 </div>
 
-![Snake animation](https://github.com/DevConstantino/DevConstantino/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/constmatheus/constmatheus/blob/output/github-contribution-grid-snake.svg)
